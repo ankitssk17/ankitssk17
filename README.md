@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ankit Singh!</h1>
+<h1 align="center">Hi 👋, I'm Ankit Singh a IT undergrad!</h1>
 <h3 align="center">
 Hi there 👋
-I'm a frontend developer with a passion for creating beautiful and responsive web applications. I have experience working with HTML, CSS, JavaScript, React, Bootstrap and other web technologies.
-I'm also currently exploring Data Structures and Algorithms in Java and learning how to become a fullstack developer using Java frameworks such as Spring Boot, Hibernate and Thymeleaf.
+I'm a frontend developer with a passion for creating beautiful and responsive web applications. I have worked on my personal projects with HTML, CSS, JavaScript, React, Tailwind and other web technologies.
+I'm also currently exploring Data Structures and Algorithms in Java and learning how to become a fullstack developer using Java frameworks such as Spring Boot and Hibernate.
 I love to learn new things and collaborate with other developers. Feel free to check out my projects and connect with me on GitHub. 😊</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitssk17&label=Profile%20views&color=0e75b6&style=flat" alt="ankitssk17" /> </p>
 
-- 🌱 I’m currently exploring Frontend along with Java Full stack **React, Tailwind**
+- 🌱 I’m currently exploring Frontend along with Java Full stack.
 
 - 📫 How to reach me **ankitssk17@gmail.com**
 
