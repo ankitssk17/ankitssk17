@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Singh a IT undergrad!</h1>
+<h1 align="center">Hi 👋, I'm Ankit Singh an IT undergrad!</h1>
 <h3 align="center">
 Hi there 👋
 I'm a frontend developer with a passion for creating beautiful and responsive web applications. I have worked on my personal projects with HTML, CSS, JavaScript, React, Tailwind and other web technologies.
